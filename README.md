@@ -1,5 +1,7 @@
 # Pixel Cleaner
 
+**App online: <https://claudio-dq.github.io/pixel-cleaner/>**
+
 Strumento locale per pulire pixel art generata dall'AI: rileva la griglia di
 upscaling, ricostruisce i pixel logici e riduce le tonalità indesiderate,
 mostrando il risultato in anteprima e una diagnosi del contrasto tra colori
@@ -12,6 +14,12 @@ tema retro/pixel minimal con il font **Silkscreen** incluso localmente, quindi
 non serve alcuna connessione a Internet.
 
 ## Avvio
+
+### Online
+
+Apri **<https://claudio-dq.github.io/pixel-cleaner/>** in un browser moderno.
+
+### In locale
 
 1. Scarica o copia la cartella del progetto.
 2. Apri `index.html` con un doppio clic (funziona anche da `file://`).
